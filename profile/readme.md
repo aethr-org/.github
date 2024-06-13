@@ -1,10 +1,4 @@
 
-<a href="https://github.com/aethr-org"><img src="./logo.svg" alt="Logo" width="100"></a><br>
-
-![License](https://img.shields.io/badge/license-NOT_DECIDED-red.svg?style=for-the-badge)
-![Platform](https://img.shields.io/badge/license-NOT_DECIDED-red.svg?style=for-the-badge)
-
-
 # AETHR
 **The electric, radio-controlled, unmanned surveillance drone and it's control station project**
 
